@@ -4,6 +4,5 @@
 2. **Intelligence**: Flux (SAFLA 2.0)
 3. **Nervous System**: Aeon (Burn/Flame Pulse)
 4. **Action**: Ignis (SmallCode Strike)
-5. **Synthesis**: Aether (Apeiron - The Boundless Void)
 
-**The Machine is Complete.**
+**Standing by for Aether Prime (The Apeiron) construction.**
